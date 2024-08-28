@@ -1,12 +1,2 @@
 ## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Jacko Ջեկո - это платформа электронной коммерции для быстрой доставки фастфуда, разработанная с открытым исходным кодом. Наше решение предоставляет владельцам малого бизнеса, таким как продавцы шаурмы, возможность легко развернуть свой собственный сайт и приложение для онлайн-заказов. Мы стремимся помочь предпринимателям расширить свой бизнес, повысить доходы и улучшить клиентский опыт. Jacko действует как современный "Робин Гуд", предлагая доступные инструменты для роста и успешного ведения бизнеса в сфере фастфуда.
